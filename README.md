@@ -1,7 +1,6 @@
 # pixel2image
 
-## Video:"https://www.youtube.com/embed/03nbVihRpf0" 
-  
+[<img src="https://img.youtube.com/vi/03nbVihRpf0/maxresdefault.jpg" width="50%">](https://youtu.be/03nbVihRpf0)
   
   ## Steps to follow:
   #### 1. Collect images.
