@@ -1,6 +1,6 @@
 # pixel2image
 
-[<img src="https://img.youtube.com/vi/03nbVihRpf0/maxresdefault.jpg" width="50%">](https://youtu.be/03nbVihRpf0)
+[<img src="https://j.gifs.com/JypW0g.gif">](https://youtu.be/03nbVihRpf0)
   
   ## Steps to follow:
   #### 1. Collect images.
