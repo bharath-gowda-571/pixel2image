@@ -1,4 +1,8 @@
-# pixel2image 
+# pixel2image
+
+## Video:"https://www.youtube.com/embed/03nbVihRpf0" 
+  
+  
   ## Steps to follow:
   #### 1. Collect images.
       In my case i scraped gettyimages site to get around 3000 images of MS Dhoni. 
